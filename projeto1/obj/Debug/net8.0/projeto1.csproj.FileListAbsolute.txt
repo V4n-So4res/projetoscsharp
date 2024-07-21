@@ -1,0 +1,14 @@
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\bin\Debug\net8.0\projeto1.exe
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\bin\Debug\net8.0\projeto1.deps.json
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\bin\Debug\net8.0\projeto1.runtimeconfig.json
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\bin\Debug\net8.0\projeto1.dll
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\bin\Debug\net8.0\projeto1.pdb
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfoInputs.cache
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfo.cs
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.csproj.CoreCompileInputs.cache
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.dll
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\refint\projeto1.dll
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.pdb
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.genruntimeconfig.cache
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\ref\projeto1.dll
