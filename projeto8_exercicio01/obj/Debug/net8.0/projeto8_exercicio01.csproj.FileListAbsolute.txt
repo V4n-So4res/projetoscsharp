@@ -1,0 +1,5 @@
+C:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto8_exercicio01\obj\Debug\net8.0\projeto8_exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto8_exercicio01\obj\Debug\net8.0\projeto8_exercicio01.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto8_exercicio01\obj\Debug\net8.0\projeto8_exercicio01.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto8_exercicio01\obj\Debug\net8.0\projeto8_exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto8_exercicio01\obj\Debug\net8.0\projeto8_exercicio01.sourcelink.json
