@@ -12,3 +12,4 @@ c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8
 c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.pdb
 c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.genruntimeconfig.cache
 c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\ref\projeto1.dll
+c:\Users\vanes\OneDrive\Área de Trabalho\projetoscsharp\projeto1\obj\Debug\net8.0\projeto1.sourcelink.json
